@@ -1015,6 +1015,7 @@ margin-top: 200%;
     align-items: center;
     align-content: center;
     z-index: 999;
+    display: flex;
 }
 
 @keyframes slideIn{
@@ -1090,6 +1091,11 @@ gap: 1px;
     top: 2900px;
     left: 20px;
 }
+
+.container2{
+    display: none;
+}
+
 
 }  
 
